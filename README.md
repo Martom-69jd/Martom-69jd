@@ -24,7 +24,7 @@
 <td width="80" align="center"><h1>🐱</h1></td>
 <td>
 <h2>u69jd</h2>
-<sub><code>Linux</code> · <code>твой стек</code> · <code>твоя страна</code></sub><br>
+<sub><code>Linux</code> · <code>Ayanami</code> · <code>Rai</code></sub><br>
 <sub>короткая подпись о себе</sub>
 <br><br>
 🩵🩵🩵
@@ -57,9 +57,6 @@ Like: shell, terminal.
 </tr>
 <tr>
 <td colspan="2">
-
-Что умеет проект: фича, фича, фича.
-
 В духе того, что тебя вдохновляет.
 
 ### ▶ [Load game](https://github.com/Martom-69jd/MinoLinux-)
