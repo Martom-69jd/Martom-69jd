@@ -33,9 +33,7 @@
 <tr>
 <td colspan="2">
 
-Одна строка о том, чем ты занимаешься.
-
-Daily: shell, terminal, editor. Когда Linux бесит — пишу тулзу.
+Like: shell, terminal.
 
 </td>
 </tr>
