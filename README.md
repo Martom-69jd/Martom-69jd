@@ -40,7 +40,6 @@ Like: shell, terminal.
 </table>
 
 <br>
-
 <table width="100%">
 <tr>
 <td colspan="2">
