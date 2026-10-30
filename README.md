@@ -62,7 +62,7 @@ Like: shell, terminal.
 
 В духе того, что тебя вдохновляет.
 
-### ▶ [Load game](https://github.com/u69jd/minolinux)
+### ▶ [Load game](https://github.com/Martom-69jd/MinoLinux-)
 
 </td>
 </tr>
