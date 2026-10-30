@@ -51,13 +51,13 @@ Like: shell, terminal.
 <td width="80" align="center"><h1>💾</h1></td>
 <td>
 <h2>minolinux</h2>
-<sub>описание проекта в одну строку</sub><br>
-<sub>release · стек</sub>
+<sub>просто linux</sub><br>
+<sub>release · Rei</sub>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-В духе того, что тебя вдохновляет.
+В душе только Linux.
 
 ### ▶ [Load game](https://github.com/Martom-69jd/MinoLinux-)
 
